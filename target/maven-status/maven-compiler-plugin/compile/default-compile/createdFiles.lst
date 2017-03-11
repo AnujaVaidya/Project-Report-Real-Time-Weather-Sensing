@@ -1,0 +1,4 @@
+com\model\assignment1\Registration.class
+com\model\assignment1\BootstrapInfo.class
+com\model\assignment1\Mongodb_connect.class
+com\controller\Assignment1\ServerConnect.class
